@@ -10,4 +10,4 @@ Ulaanbaatar daily averages - Pm2.5 (ug/m3)
 
 
 
-https://public.tableau.com/views/SpatialdistributionPM2_5avg2020-2023inMongolia/Dashboard1?:language=en-US&:display_count=n&:origin=vi
+https://public.tableau.com/app/profile/ana.ilie4688
